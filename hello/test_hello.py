@@ -18,3 +18,7 @@ class TestHello(unittest.TestCase):
     def test_world_Faile(self):
         """sample test with failure"""
         self.assertEqual(2+2, 3)
+    
+    def test_world_Faile_Whale(self):
+        """sample test with failure"""
+        self.assertEqual(2+2, 5)
