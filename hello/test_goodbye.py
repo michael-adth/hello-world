@@ -18,8 +18,5 @@ class TestGoodbye(unittest.TestCase):
         """sample test with failure"""
         self.assertEqual(2+2, 5)
 
-    def test_mars(self):
-        """sample test with failure"""
-        self.assertEqual(2+2, 4)
     
     
