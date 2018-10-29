@@ -20,7 +20,6 @@ class TestGoodbye(unittest.TestCase):
 
     def test_mars(self):
         """sample test with failure"""
-        syntax error code
-        self.assertEqual(2+2, 5)
+        self.assertEqual(2+2, 4)
     
     
